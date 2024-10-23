@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eli</h1>
-<h3 align="center">professional goofball</h3>
+<h3 align="center">I'm a beyonce fan</h3>
 
 - 🔭 I’m currently working on **my billboard charts project**
 
